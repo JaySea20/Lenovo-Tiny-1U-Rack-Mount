@@ -1,1 +1,5 @@
-![](Gallery/Frame%20Skin%20v0.1%20-%20350mm%20(1)%20v3.png)  
+Case to mount your Lenovo Tiny in a 1U rack Slot
+
+![](Gallery/Lenovo%20Tiny%20Case%201U.png)  
+
+-Jay
