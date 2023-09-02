@@ -1,4 +1,5 @@
 Case to mount your Lenovo Tiny in a 1U rack Slot  
+  
 Materials Needed:  
  • 3D Printer  
  • ABS/Nylon/Polycarbonate ( PLA NOT RECOMMENDED )  
